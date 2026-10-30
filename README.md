@@ -2,7 +2,9 @@
 
 A school project (2025). Toy Haven is a multi-vendor online marketplace where buyers can shop for toys and collectibles, sellers can manage their own shops, and an admin approves seller accounts.
 
-*These are the early wireframes. The project was first called **Toy Shap** and was later renamed **Toy Haven**.*
+🌐 **Live site** → https://onlineetoys.web.app/
+
+*The wireframes below are my early designs. The project was first called **Toy Shap** and was later renamed **Toy Haven**. The final UI on the live site was updated by our team's developer.*
 
 ## My Role
 **Project Leader & UI Designer** of a team project. My work was:
